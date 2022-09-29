@@ -1,0 +1,9 @@
+package com.femisboot.springbootwithfemi.data.models.enums;
+
+import javax.persistence.Embeddable;
+
+
+public enum Category {
+    FASHION, ELECTRONICS, HOME, GROCERIES, TOYS, BOOKS, SPORTS, BEAUTY, HEALTH, BABY, PET, GARDEN, AUTO, OFFICE, MOVIES,
+    MUSIC, GAMES, OUTDOOR, INDUSTRIAL, LUGGAGE, TOOLS, JEWELRY, SHOES, WATCHES, HANDMADE, SOFTWARE, DAIRY, BEVERAGES, FOOD, DIGITAL_MUSIC
+}
